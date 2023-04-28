@@ -1,0 +1,482 @@
+[
+    {
+        "keywords": [
+            "naber",
+            "ne haber",
+            "n'aber",
+            "n'apıyorsun",
+            "napıyorsun"
+        ],
+        "answers": [
+            "iyi kanka, sen n'apıyorsun?",
+            "buralarda takılıyorum moruk",
+            "naber lan delikanlı?",
+            "ohooo, kafalar güzel",
+            "yoğunum kral, batakta atıyorum"
+        ]
+    },
+    {
+        "keywords": [
+            "güzelmiş",
+            "beğendim",
+            "çok iyi",
+            "oha",
+            "vay be"
+        ],
+        "answers": [
+            "cidden mi lan?",
+            "sen de beğenmez miydin zaten",
+            "hadi be oradan!",
+            "işte bu, aşk olsun sana",
+            "ışık hızıyla beğeniyorsun ha"
+        ]
+    },
+    {
+        "keywords": [
+            "tamam",
+            "anladım",
+            "peki",
+            "oldu",
+            "tamamdır"
+        ],
+        "answers": [
+            "tamam işte, anlaştık mı?",
+            "peki kanka, kabul ediyorum",
+            "bitti gitti ha",
+            "güzel, ne güzel anlaşıyoruz",
+            "anlaştık mı lan?"
+        ]
+    },
+    {
+        "keywords": [
+            "işte",
+            "öyle",
+            "ne bileyim",
+            "bilmiyorum",
+            "ne diyorsun"
+        ],
+        "answers": [
+            "hadi lan, anlat bakalım",
+            "haha, ne dediğini anlamadım",
+            "sen de şaşırtma beni",
+            "valla ben de bilmiyorum",
+            "kafayı yemişsin sen"
+        ]
+    },
+    {
+        "keywords": [
+            "yaşasın",
+            "coşkulu",
+            "çok mutluyum",
+            "şerefe",
+            "hadi"
+        ],
+        "answers": [
+            "coşkunun dibine vurduk ha",
+            "hadi hep birlikte şerefe!",
+            "sen mutlu olunca gözlerim dolar",
+            "vay be, ne güzel coşuyoruz",
+            "şu mutluluğa bakar mısın?"
+        ]
+    },
+    {
+        "keywords": [
+            "sıkıldım",
+            "canım sıkıldı",
+            "ne yapalım",
+            "çok sıkıcı",
+            "çok bunaldım"
+        ],
+        "answers": [
+            "sıkılma lan, şimdi coşacağız",
+            "şu suratını güldür de sıkıntı çıksın",
+            "hadi ama, canın niye sıkıldı?",
+            "aynen ya, bunalımdayım ben de",
+            "canımı sıkmaya devam et, bak ne olacak"
+        ]
+    },
+    {
+        "keywords": [
+            "gülüyorum",
+            "komik",
+            "espri",
+            "koptum",
+            "kahkaha"
+        ],
+        "answers": [
+            "güldür güldür şunu!",
+            "lan ne komik şeyler var aklında",
+            "bırak da kahkaha atalım",
+            "koptum koptum, yerlere yattım",
+            "espri kralı senin adın"
+        ]
+    },
+    {
+        "keywords": [
+            "hadi bakalım",
+            "görüşürüz",
+            "bye bye",
+            "hoşça kal",
+            "eyvallah"
+        ],
+        "answers": [
+            "hadi len, güle güle",
+            "görüşürüz kanka, kendine iyi bak",
+            "bye bye, yolun açık olsun",
+            "hoşça kal, yine bekleriz",
+            "eyvallah, ara sıra haber ver"
+        ]
+    },
+    {
+        "keywords": [
+            "lan",
+            "yahu",
+            "yav",
+            "ya",
+            "of"
+        ],
+        "answers": [
+            "lan sen ne diyorsun?",
+            "yahu ne oluyor burada?",
+            "yav şu işe bak",
+            "ya düşünsene ne komik",
+            "of ya, yine mi aynı şeyler?"
+        ]
+    },
+    {
+        "keywords": [
+            "şaka",
+            "şakaydı",
+            "yalan",
+            "yok artık",
+            "inanmıyorum"
+        ],
+        "answers": [
+            "şaka mı lan bu?",
+            "şakaydı, kızma",
+            "bir yalan daha uydur bakayım",
+            "yok artık, inanamıyorum!",
+            "inanmıyorum, olamaz böyle şey"
+        ]
+    },
+    {
+        "keywords": [
+            "çıldırdım",
+            "düşün",
+            "kafayı yedim",
+            "ne diyorsun",
+            "şok"
+        ],
+        "answers": [
+            "çıldırdık lan!",
+            "düşün düşün, beyin fırtınası yapalım",
+            "kafayı yemişiz be",
+            "ne diyorsun sen öyle?",
+            "şok şok şok!"
+        ]
+    },
+    {
+        "keywords": [
+            "şerefsiz",
+            "pislik",
+            "ayıp",
+            "terbiyesiz",
+            "nefret"
+        ],
+        "answers": [
+            "sen de şerefsizsin lan!",
+            "pislik mi dedin, kime?",
+            "ayıp ayıp, ne demek o?",
+            "terbiyesizlik yapıyorsun ha",
+            "nefret ettim senden be"
+        ]
+    },
+    {
+        "keywords": [
+            "para",
+            "nakit",
+            "borç",
+            "zengin",
+            "fakir"
+        ],
+        "answers": [
+            "para parayı çeker, zengin olalım",
+            "nakit mi lazım, ne kadar?",
+            "borç mu? Çok mu lazım?",
+            "zengin olunca unutma bizi",
+            "fakirlik bizim kaderimiz"
+        ]
+    },
+    {
+        "keywords": [
+            "yemek",
+            "afiyet olsun",
+            "lezzetli",
+            "acıktım",
+            "doymak"
+        ],
+        "answers": [
+            "yemek mi yiyelim, ne dersin?",
+            "afiyet olsun, iştahla ye",
+            "ohoo, lezzetliymiş ha",
+            "acıktım lan, n'apıcaz?",
+            "doymadım be, daha var mı?"
+        ]
+    },
+    {
+        "keywords": [
+            "uyku",
+            "yatak",
+            "uyanık",
+            "uyandım",
+            "yat"
+        ],
+        "answers": [
+            "uykusuz geceler, sabah olmaz",
+            "yatak bana kumanda der",
+            "uyanık mısın, gece kuşu?",
+            "uyandım, hayat devam ediyor",
+            "yat yat, ne duruyorsun?"
+        ]
+    },
+    {
+        "keywords": [
+            "sevgili",
+            "aşk",
+            "flört",
+            "kalp",
+            "kırgın"
+        ],
+        "answers": [
+            "sevgili mi dedin, nerede?",
+            "aşk olsun sana, nerede buluyorsun?",
+            "flört mü, hızlı adımlar",
+            "kalbim kırık, ne yapayım?",
+            "kırgınlık yok, barışalım"
+        ]
+    },
+    {
+        "keywords": [
+            "sinema",
+            "film",
+            "dizi",
+            "izle",
+            "eleştiri"
+        ],
+        "answers": [
+            "sinema mı? En sevdiğim mekan",
+            "film izleyelim, ne dersin?",
+            "dizi mi, hangisini izliyorsun?",
+            "izle izle, doyamazsın",
+            "eleştiri yapalım, ne kadar kötüydü!"
+        ]
+    },
+    {
+        "keywords": [
+            "parti",
+            "eğlence",
+            "dans",
+            "alkol",
+            "müzik"
+        ],
+        "answers": [
+            "parti düzenleyelim, kırılalım",
+            "eğlence, haydi başlasın",
+            "dans etmek istiyorum, gel!",
+            "alkol zamanı, şerefe",
+            "müzik çalsın, gönüller neşelensin"
+        ]
+    },
+    {
+        "keywords": [
+            "spor",
+            "koş",
+            "futbol",
+            "basketbol",
+            "yüz"
+        ],
+        "answers": [
+            "spor yap, formda kal",
+            "koş koş, hızlı adımlarla",
+            "futbol mu? Şampiyon kim?",
+            "basketbol, potaya yüklen",
+            "yüz, suyun altında özgürsün"
+        ]
+    },
+    {
+        "keywords": [
+            "tatil",
+            "gezi",
+            "seyahat",
+            "plaj",
+            "deniz"
+        ],
+        "answers": [
+            "tatil hayalleri, palmiye gölgeleri",
+            "gezi planı yapalım, çantalar hazır mı?",
+            "seyahat edelim, dünya bizim",
+            "plaj partisi, güneşlenelim",
+            "deniz, kum, güneş; neşe doluyuz"
+        ]
+    },
+    {
+        "keywords": [
+            "çalış",
+            "iş",
+            "mesai",
+            "para kazan",
+            "stres"
+        ],
+        "answers": [
+            "çalış be, başarının sırrı",
+            "iş güç, hayatın oyunu",
+            "mesai mi? Ne kadar da yoğunuz",
+            "para kazan, hedefe ulaş",
+            "stres olma, rahatla biraz"
+        ]
+    },
+    {
+        "keywords": [
+            "arkadaş",
+            "kanka",
+            "dost",
+            "ahbap",
+            "sırdaş"
+        ],
+        "answers": [
+            "arkadaşlık kıymetli, değerini bil",
+            "kanka, kardeş gibisin",
+            "dost, hayatın anlamı",
+            "ahbaplık, eski dostluklar",
+            "sırdaş, sırların en güvendiği"
+        ]
+    },
+    {
+        "keywords": [
+            "hayvan",
+            "kedi",
+            "köpek",
+            "kuş",
+            "balık"
+        ],
+        "answers": [
+            "hayvanlar, doğanın güzellikleri",
+            "kedi mi? Miau miau",
+            "köpek, en iyi dost",
+            "kuş, özgürlüğün simgesi",
+            "balık, suyun dansçısı"
+        ]
+    },
+    {
+        "keywords": [
+            "şans",
+            "baht",
+            "kısmet",
+            "tut",
+            "kazan"
+        ],
+        "answers": [
+            "şans ayağında, yakala",
+            "bahtı açık, yolun aydın olsun",
+            "kısmet, ne zaman nerede",
+            "tut, şansın dönsün",
+            "kazan, zafer seninle olsun"
+        ]
+    },
+    {
+        "keywords": [
+            "kahve",
+            "çay",
+            "sıcak içecek",
+            "fincan",
+            "enerji"
+        ],
+        "answers": [
+            "kahve, enerji depolarını doldur",
+            "çay, sıcak sohbetlerin başlangıcı",
+            "sıcak içecek, içimi ısıtıyor",
+            "fincan dolusu huzur, bir yudumda",
+            "enerji patlaması, haydi kalk!"
+        ]
+    },
+    {
+        "keywords": [
+            "kitap",
+            "roman",
+            "okumak",
+            "yazar",
+            "sayfa"
+        ],
+        "answers": [
+            "kitap, dost meclisi",
+            "roman, hayallerin peşinde",
+            "okumak, düşüncelerin uçurumu",
+            "yazar, düşlerin yaratıcısı",
+            "sayfa sayfa, düşlerin içinde"
+        ]
+    },
+    {
+        "keywords": [
+            "telefon",
+            "mesaj",
+            "arama",
+            "görüntülü",
+            "whatsapp"
+        ],
+        "answers": [
+            "telefon elimde, konuşmaya hazır",
+            "mesaj beklemede, yaz bakalım",
+            "arama yap, sesini duymak istiyorum",
+            "görüntülü, yüz yüze konuşalım",
+            "whatsapp, iletişimin kısayolu"
+        ]
+    },
+    {
+        "keywords": [
+            "sinirli",
+            "öfkeli",
+            "kızgın",
+            "tutuşmuş",
+            "patlamak"
+        ],
+        "answers": [
+            "sinirli misin, rahatla biraz",
+            "öfkeli, dikkatli ol",
+            "kızgın, ateş püskürüyor",
+            "tutuşmuş, yangın var",
+            "patlamak üzere, dikkat et!"
+        ]
+    },
+    {
+        "keywords": [
+            "doğa",
+            "orman",
+            "ağaç",
+            "çiçek",
+            "gökyüzü"
+        ],
+        "answers": [
+            "doğa, huzurun adresi",
+            "orman, yeşilin dansı",
+            "ağaç, gölgede dinlenelim",
+            "çiçek, baharın müjdecisi",
+            "gökyüzü, sonsuzluğun resmi"
+        ]
+    },
+    {
+        "keywords": [
+            "alışveriş",
+            "giyim",
+            "ayakkabı",
+            "aksesuar",
+            "parfüm"
+        ],
+        "answers": [
+            "alışveriş, cüzdanın düşmanı",
+            "giyim, şıklığın anahtarı",
+            "ayakkabı, adımların güzelliği",
+            "aksesuar, detayların büyüsü",
+            "parfüm, çekiciliğin sırrı"
+        ]
+    }
+]
